@@ -1,3 +1,5 @@
 # Introduction 
 
-**I am a graduate of Bachelor of Computer Science at the University of Adelaide. I have developed proficient skills in HTML/CSS, SQL, Python and C++. I am also experienced at JavaScript, MATLAB and R. I am pursuing a job position in the wide information technology and computer science area to achieve higher career goals.**
+**Siqi Chen is a passionate full stack software engineer specializing in industrializing advanced technologies in artificial intelligence. In his role, he harnesses his expertise to design, develop, and deploy real-world AI solutions that deliver tangible impact, driving innovation and bridging the gap between cutting-edge research and practical applications.
+
+Beyond his engineering work, he is actively engaged in pioneering research at the Australian Institute for Machine Learning. As a Research Assistant, he contributes to cutting-edge projects focused on multimodal models for medical image analysis, helping to push the boundaries of AI in healthcare.**
